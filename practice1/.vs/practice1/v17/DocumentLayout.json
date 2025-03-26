@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\githubcode\\practice\\practice1\\",
+  "WorkspaceRootPath": "D:\\GITHUBCODE\\practice\\practice1\\",
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{8A7EA236-3A9F-4713-948C-4077ABB7529F}|practice1\\practice1.vcxproj|D:\\githubcode\\practice\\practice1\\practice1\\practice1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "practice1.c",
-              "DocumentMoniker": "D:\\githubcode\\practice\\practice1\\practice1\\practice1.c",
+              "DocumentMoniker": "D:\\GITHUBCODE\\practice\\practice1\\practice1\\practice1.c",
               "RelativeDocumentMoniker": "practice1\\practice1.c",
-              "ToolTip": "D:\\githubcode\\practice\\practice1\\practice1\\practice1.c",
+              "ToolTip": "D:\\GITHUBCODE\\practice\\practice1\\practice1\\practice1.c",
               "RelativeToolTip": "practice1\\practice1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-08T14:22:22.627Z",
+              "WhenOpened": "2025-03-24T13:41:00.007Z",
               "EditorCaption": ""
             }
           ]
