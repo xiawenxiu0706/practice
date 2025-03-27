@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{0a98c835-a5b1-452f-a27f-a10fd4336a4a}</ProjectGuid>
+    <ProjectGuid>{ad8f0468-7e60-4389-a0a4-9fc3569f2f6e}</ProjectGuid>
     <RootNamespace>shuzupg</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

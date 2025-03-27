@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\GITHUBCODE\\practice\\shuzu_pg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A98C835-A5B1-452F-A27F-A10FD4336A4A}|shuzu_pg\\shuzu_pg.vcxproj|D:\\GITHUBCODE\\practice\\shuzu_pg\\shuzu_pg\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0A98C835-A5B1-452F-A27F-A10FD4336A4A}|shuzu_pg\\shuzu_pg.vcxproj|solutionrelative:shuzu_pg\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{AD8F0468-7E60-4389-A0A4-9FC3569F2F6E}|shuzu_pg\\shuzu_pg.vcxproj|D:\\GITHUBCODE\\practice\\shuzu_pg\\shuzu_pg\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AD8F0468-7E60-4389-A0A4-9FC3569F2F6E}|shuzu_pg\\shuzu_pg.vcxproj|solutionrelative:shuzu_pg\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "shuzu_pg\\test.c",
               "ToolTip": "D:\\GITHUBCODE\\practice\\shuzu_pg\\shuzu_pg\\test.c*",
               "RelativeToolTip": "shuzu_pg\\test.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-27T15:17:54.884Z",
+              "WhenOpened": "2025-03-27T15:47:32.944Z",
               "EditorCaption": ""
             }
           ]
