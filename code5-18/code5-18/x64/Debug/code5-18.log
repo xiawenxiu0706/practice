@@ -1,0 +1,14 @@
+﻿  test.c
+D:\GITHUBCODE\practice\code5-18\code5-18\test.c(5,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\GITHUBCODE\practice\code5-18\code5-18\test.c(5,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\GITHUBCODE\practice\code5-18\code5-18\test.c(6,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\GITHUBCODE\practice\code5-18\code5-18\test.c(6,9):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\GITHUBCODE\practice\code5-18\code5-18\test.c(7,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      D:\GITHUBCODE\practice\code5-18\code5-18\test.c(7,9):
+      请考虑在格式字符串中使用“%zd”
+  
+  code5-18.vcxproj -> D:\GITHUBCODE\practice\code5-18\x64\Debug\code5-18.exe
