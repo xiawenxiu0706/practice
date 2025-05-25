@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GITHUBCODE\\practice\\code5-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34644FC2-28D1-41CF-AF5B-CB31ED073922}|code5-25\\code5-25.vcxproj|D:\\GITHUBCODE\\practice\\code5-25\\code5-25\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{34644FC2-28D1-41CF-AF5B-CB31ED073922}|code5-25\\code5-25.vcxproj|solutionrelative:code5-25\\test2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test2.c",
+              "DocumentMoniker": "D:\\GITHUBCODE\\practice\\code5-25\\code5-25\\test2.c",
+              "RelativeDocumentMoniker": "code5-25\\test2.c",
+              "ToolTip": "D:\\GITHUBCODE\\practice\\code5-25\\code5-25\\test2.c",
+              "RelativeToolTip": "code5-25\\test2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-25T15:36:43.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
